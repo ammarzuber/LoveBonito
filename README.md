@@ -11,3 +11,9 @@ Assestment
 
 
 3.Run The sending_email.py to send emails on low availability
+
+
+
+
+Google Slides link -:
+https://docs.google.com/presentation/d/1ByMKOS0xrk-Sk5mVVINACnFKQLnZhARei3t9UbUqDg8/edit?usp=sharing
